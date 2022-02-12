@@ -4,4 +4,4 @@ Requirements : Colorama
 
 py -m pip install colorama
 
-%% or && to Use
+%%, ## or && to Use
